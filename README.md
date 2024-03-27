@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Enoch-2003
 - 👀 I’m interested in learning JAVA and CPP.
-- 🌱 I’m currently learning C.
+
 - 💞️ I’m looking to collaborate on basic coding projects.
 - 📫 How to reach me enochapdas@gmail.com
 
